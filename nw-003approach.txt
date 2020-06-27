@@ -1,0 +1,5 @@
+Historical Purchase Orders: data details about spend and savings trends, unit price, quantity at the required granularity level.
+
+I will create queries that will allow for us to see the daily spending and saving trends through the order
+I will compare unit prices for each order made
+I will find the quantity of products sold for each order
