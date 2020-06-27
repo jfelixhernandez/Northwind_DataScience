@@ -1,0 +1,5 @@
+2. Baselines: established price by the company for full year, that can be used to compare current and future purchases, and evaluate the amount of spend and savings generated.
+
+Need to query the Orders table
+Create the average of the price, with category details, vendor
+Provide mean, median, mode, standard deviation of price
