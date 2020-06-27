@@ -1,4 +1,4 @@
-# Northwind_DataScience
+# Northwind DataScience
 
 Northwind Forecast and Performance Evaluation
 
